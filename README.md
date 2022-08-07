@@ -10,7 +10,7 @@ Ruby client for the LOTR api located at https://the-one-api.dev/
 ## Usage
 In your ruby file
 
-	gem 'derek_hall-SDK'
+	gem 'derek_hall-sdk'
 	require 'lotr/sdk'
 
 	# signup for an api key here https://the-one-api.dev/
@@ -55,7 +55,7 @@ In your ruby file
 
 Run tests
 
-	rake test
+	rake spec
 
 Build gem
 
