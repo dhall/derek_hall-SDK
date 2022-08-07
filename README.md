@@ -1,4 +1,5 @@
 
+
 # LOTR SDK
 
 Ruby client for the LOTR api located at https://the-one-api.dev/
@@ -12,8 +13,8 @@ In your ruby file
 	gem 'derek_hall-SDK'
 	require 'lotr/sdk'
 
-  # signup for an api key here https://the-one-api.dev/
-  # pass in key directly or export an environment variable
+	# signup for an api key here https://the-one-api.dev/
+	# pass in key directly or export an environment variable
 	client = Lotr::Sdk::Client.new(ENV['KEY'])
 
 	# grab a random quote
