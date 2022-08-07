@@ -5,7 +5,7 @@
 Ruby client for the LOTR api located at https://the-one-api.dev/
 
 ## Installation
-	gem install derek_hall-SDK
+	gem install derek_hall-sdk
 
 ## Usage
 In your ruby file
